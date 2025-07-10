@@ -1,0 +1,2 @@
+elephant==0.10.0
+git+git://github.com/INM-6/viziphant.git
